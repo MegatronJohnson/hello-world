@@ -1,3 +1,3 @@
 # hello-world
-Github introduction
+Github introduction.
 I'm Mr. Meeseeks look at me.
